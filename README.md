@@ -27,8 +27,8 @@ Python, Tableau
 
 🔻 태블로 시각화 링크 
 
-[https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638](https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638)
-[https://public.tableau.com/app/profile/.13208461/viz/__16716196925680/sheet8](https://public.tableau.com/app/profile/.13208461/viz/__16716196925680/sheet8)
+[대시보드1 바로가기](https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638)
+[대시보드2 바로가기](https://public.tableau.com/app/profile/.13208461/viz/__16716196925680/sheet8)
 
 ### 기여한 부분
 
