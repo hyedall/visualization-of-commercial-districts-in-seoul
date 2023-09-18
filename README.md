@@ -25,6 +25,7 @@ Python, Tableau
     1. 가장 매출이 많은 업종 : 육류판매
     2. 주요 고객 : 여성, 40-60대
 
+
 🔻 태블로 시각화 링크 
 
 [대시보드1](https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638)\
@@ -39,5 +40,10 @@ Python, Tableau
 
 1. 카카오 api를 통해 좌표를 주소로 바꾸는 경험을 해보았음.
 2. 태블로를 통해 서로 연관되는 정보들을 대시보드로 다양하게 구현해보는 경험을 해보았음.
+
+
+![image](https://github.com/hyedall/visualization-of-commercial-districts-in-seoul/assets/106393197/5a1ce4e6-e6b6-4b50-9ff1-1808527116c1)
+![image](https://github.com/hyedall/visualization-of-commercial-districts-in-seoul/assets/106393197/280c63e1-1f43-47c2-afbb-6f9c9dfdac92)
+
 
 
