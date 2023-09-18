@@ -26,6 +26,7 @@ Python, Tableau
     2. 주요 고객 : 여성, 40-60대
 
 🔻 태블로 시각화 링크 
+
 [https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638](https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638)
 [https://public.tableau.com/app/profile/.13208461/viz/__16716196925680/sheet8](https://public.tableau.com/app/profile/.13208461/viz/__16716196925680/sheet8)
 
