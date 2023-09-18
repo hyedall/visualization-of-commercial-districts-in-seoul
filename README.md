@@ -1,7 +1,6 @@
 ## 서울시 상권 시각화
 
-[PPT]
-(https://drive.google.com/file/d/1GbSAfsRuWxaOA3WJwlULJGLOAwUuPRQg/view?usp=sharing)
+[PPT](https://drive.google.com/file/d/1GbSAfsRuWxaOA3WJwlULJGLOAwUuPRQg/view?usp=sharing)
 
 <aside>
 🚌 서울시 상권 시각화
