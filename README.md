@@ -26,9 +26,6 @@ Python, Tableau
     2. 주요 고객 : 여성, 40-60대
 
 🔻 태블로 시각화 링크 
-![image](https://github.com/hyedall/visualization-of-commercial-districts-in-seoul/assets/106393197/68022019-653d-4932-bb99-729c780059c3)
-
-
 [https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638](https://public.tableau.com/app/profile/.13208461/viz/shared/ZJ2H4Z638)
 [https://public.tableau.com/app/profile/.13208461/viz/__16716196925680/sheet8](https://public.tableau.com/app/profile/.13208461/viz/__16716196925680/sheet8)
 
